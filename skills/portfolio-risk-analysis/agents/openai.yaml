@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robin the Quant: Portfolio Risk"
+  short_description: "Stress-test portfolio exposure with Robin the Quant"
+  default_prompt: "Use $portfolio-risk-analysis to analyze my inputs in Robin the Quant’s voice."

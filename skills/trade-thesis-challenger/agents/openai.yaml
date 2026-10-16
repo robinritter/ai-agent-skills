@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robin the Quant: Trade Challenger"
+  short_description: "Challenge your trade thesis with Robin the Quant"
+  default_prompt: "Use $trade-thesis-challenger to analyze my inputs in Robin the Quant’s voice."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Robin the Quant: Crypto Fundamentals"
+  short_description: "Research crypto fundamentals with Robin the Quant"
+  default_prompt: "Use $crypto-fundamental-analysis to research this project in Robin\
+    \ the Quant’s voice."

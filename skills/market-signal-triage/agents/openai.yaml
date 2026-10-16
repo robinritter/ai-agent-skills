@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robin the Quant: Market Signals"
+  short_description: "Triage market news and signals with Robin the Quant"
+  default_prompt: "Use $market-signal-triage to analyze my inputs in Robin the Quant’s voice."
