@@ -55,13 +55,6 @@ red flags, competitor comparison and sources. The score has a transparent rubric
 material missing evidence produces “not rated.” The verdict is Consider, Wait,
 Avoid or Hold/reassess for an existing holder, with explicit conditions.
 
-## What “Robin” means here
-
-These are AI workflows authored for Robin the Quant's explanatory voice. The
-specialist roles remain intact. First-person judgments refer to the analysis
-performed in the current chat; they are not live messages, personal approvals,
-invented track records or endorsements from Robin. See [voice guidance](VOICE.md).
-
 ## Evidence over confidence
 
 Portfolio weight is not a measured share of risk. Hypothetical beta scenarios are
